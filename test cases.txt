@@ -1,0 +1,12 @@
+how 75 2 0 70 65  not hired
+
+rahul 90 0 2 70 70 hired
+smith 65 2 0 50 40 not hired
+
+
+background colour #7c99a5
+button colour #A9A9A9
+result label colour #c3c7c9
+result colour #A9A9A9
+
+
